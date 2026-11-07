@@ -311,3 +311,8 @@ _archive/  封存的軌跡法/圖片集程式與舊 run（不納入版控）
 ## 附錄：開發筆記
 
 設計演進、資料集評選與除錯過程記錄於 [NOTE.md](NOTE.md)。
+
+## 資料來源
+
+- **車流影像**：交通部高速公路局即時 CCTV 影像（https://cctvn.freeway.gov.tw/）。影像僅用於訓練與展示，不隨本 repo 散布。
+- **車禍資料**：Xu, Y., Huang, C., Nan, Y., Lian, S. *TAD: A Large-Scale Benchmark for Traffic Accidents Detection from Video Surveillance.* arXiv:2209.12386, 2022（https://arxiv.org/abs/2209.12386）。原始影片不隨本 repo 散布。
